@@ -16,3 +16,11 @@ DOSEN   : AGUNG
 
 ![Gambar](PB2.PNG)
 
+==> Navbar (navigasi) Buat komponen website yang berupa menu. yang biasanya diletakkan pada header website. Untuk mencari component klik menu documentation pada web bootstrap.
+
+![Gambar](PB2.1.PNG)
+
+TAMPILAN BROWSER
+
+[Gambar](PD5.PNG)
+
