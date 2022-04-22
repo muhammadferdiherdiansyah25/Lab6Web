@@ -14,5 +14,5 @@ DOSEN   : AGUNG
 ==> Quick start Buka web https://getbootstrap.com Disini saya memakai Bootstrap 4. Copy atau download CSS & JS Bootstrap.
 
 
-![Gambar](PB2.1.PNG)
+![Gambar](PB2.PNG)
 
