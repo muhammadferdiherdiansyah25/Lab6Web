@@ -9,4 +9,10 @@ DOSEN   : AGUNG
 1. Buatlah folder baru dengan nama lab6_css_framework, kemudian buat dokumen baru html
 ![Gambar](PB1.PNG)
 
+2. Buat layout web sederhana menggunakan css frameword (Twitter Bootsrtap).
+
+==> Quick start Buka web https://getbootstrap.com Disini saya memakai Bootstrap 4. Copy atau download CSS & JS Bootstrap.
+
+
+![Gambar](PB2.1.PNG)
 
