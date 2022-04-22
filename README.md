@@ -4,7 +4,7 @@ NAMA    : MUHAMMAD FERDI HERDIANSYAH
 NIM     : 312010038
 KELAS   : TI.20 D1
 MATA PEL : PEMOGRAMAN WEB ( Prak. 6 - Web framework )
-DOSEN   : AGUNG
+DOSEN   : Agung Nugroho,S.Kom.,M.Kom., 
 
 1. Buatlah folder baru dengan nama lab6_css_framework, kemudian buat dokumen baru html
 ![Gambar](PB1.PNG)
